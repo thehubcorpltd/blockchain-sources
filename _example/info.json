@@ -1,0 +1,16 @@
+{
+    "NAME": "YourBlockchainProjectName",
+    "TICKER": "TCK",
+    "VERSION": "1.0.0",
+    "COMPILED_SOURCE_TAR": "https://UrlToSourceTAR",
+    "BOOTSTRAP_ZIP_URL": "https://UrlToBootstrapZIP",
+    "LOGO": "https://UrlToYourLogo",
+    "RPC_PORT": "11111",
+    "P2P_PORT": "22222",
+    "HAS_MASTERNODES": true,
+    "MASTERNODE_COLLATERAL": 9999999,
+    "CONFIG_FILE_NAME": "coin.conf",
+    "MASTERNODE_FILE_NAME": "masternode.conf",
+    "DAEMON_NAME": "coind",
+    "CLI_NAME": "coin-cli"
+}

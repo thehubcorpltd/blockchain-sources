@@ -1,0 +1,23 @@
+{
+    "general": {
+        "GET_INFO": "getinfo",
+        "GET_STAKING_STATUS": "getstakingstatus",
+        "LIST_ADDRESS_GROUPINGS": "listaddressgroupings",
+        "STOP_DAEMON": "stop"
+    },
+    "wallet": {
+        "ENCRYPT_WALLET": "encryptwallet",
+        "GET_NEW_ADDRESS": "getnewaddress",
+        "LOCK_WALLET": "walletlock",
+        "LIST_UNSPENT": "listunspent",
+        "SET_STAKE_SPLIT_THRESHOLD": "setstakesplitthreshold",
+        "SEND": "sendtoaddress *|ADDRESS|* *|AMOUNT|*",
+        "UNLOCK_WALLET": "walletpassphrase *|PASSWORD|* 9999999999 true"
+    },
+    "masternodes": {
+        "MASTERNODE_GENKEY": "masternode genkey",
+        "MASTERNODE_STATUS": "masternode status",
+        "START_ALL_MASTERNODES": "startmasternode all false",
+        "START_MASTERNODE_ALIAS": "startmasternode alias false *|ALIAS|*"
+    }
+}

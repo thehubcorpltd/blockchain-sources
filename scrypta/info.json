@@ -1,0 +1,16 @@
+{
+    "NAME": "Scrypta",
+    "TICKER": "LYRA",
+    "VERSION": "2.0.1",
+    "COMPILED_SOURCE_TAR": "https://scrypta.sfo2.digitaloceanspaces.com/lyra-2.0.1.tar.xz",
+    "BOOTSTRAP_ZIP_URL": "https://bs.scryptachain.org/latest.zip",
+    "LOGO": "https://scryptachain.org/logo.png",
+    "RPC_PORT": "42222",
+    "P2P_PORT": "42223",
+    "HAS_MASTERNODES": true,
+    "MASTERNODE_COLLATERAL": 15000,
+    "CONFIG_FILE_NAME": "lyra.conf",
+    "MASTERNODE_FILE_NAME": "masternode.conf",
+    "DAEMON_NAME": "lyrad",
+    "CLI_NAME": "lyra-cli"
+}
