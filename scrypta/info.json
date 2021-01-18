@@ -11,6 +11,7 @@
     "MASTERNODE_COLLATERAL": 15000,
     "CONFIG_FILE_NAME": "lyra.conf",
     "MASTERNODE_FILE_NAME": "masternode.conf",
+    "HIDDEN_FOLDER": ".lyra",
     "DAEMON_NAME": "lyrad",
     "CLI_NAME": "lyra-cli"
 }
