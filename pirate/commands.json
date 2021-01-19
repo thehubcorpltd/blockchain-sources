@@ -1,6 +1,7 @@
 {
     "general": {
         "GET_INFO": "getinfo",
+        "GET_BALANCE": "z_getbalance",
         "GET_STAKING_STATUS": "",
         "LIST_ADDRESS_GROUPINGS": "z_listaddresses",
         "STOP_DAEMON": "stop"
