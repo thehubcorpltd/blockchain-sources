@@ -8,6 +8,7 @@
     "RPC_PORT": "42223",
     "P2P_PORT": "42222",
     "HAS_MASTERNODES": true,
+    "CAN_LOCK": false,
     "MASTERNODE_COLLATERAL": 15000,
     "CONFIG_FILE_NAME": "lyra.conf",
     "MASTERNODE_FILE_NAME": "masternode.conf",

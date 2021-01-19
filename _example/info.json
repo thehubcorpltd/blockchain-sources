@@ -8,6 +8,7 @@
     "RPC_PORT": "11111",
     "P2P_PORT": "22222",
     "HAS_MASTERNODES": true,
+    "CAN_LOCK": true,
     "MASTERNODE_COLLATERAL": 9999999,
     "CONFIG_FILE_NAME": "coin.conf",
     "MASTERNODE_FILE_NAME": "masternode.conf",
