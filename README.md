@@ -1,6 +1,6 @@
 # TheHUB Blockchain Sources
 
-We at TheHUB decided to open-source our blockchain source system in order to enable anyone to add projects and coins inside the website.
+TheHUB decided to open-source our blockchain source system in order to enable anyone to add projects and coins inside the website.
 
 This means that will be no fees to integrate your favourite project and this will enable you and your users to create personal VPS and deploy up to 6 instances in the same machine.
 But there's even more, if you enable the developer mode you will be able to enter your VPS and use it for personal or developing purposes.

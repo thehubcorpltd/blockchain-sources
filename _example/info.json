@@ -11,6 +11,7 @@
     "MASTERNODE_COLLATERAL": 9999999,
     "CONFIG_FILE_NAME": "coin.conf",
     "MASTERNODE_FILE_NAME": "masternode.conf",
+    "HIDDEN_FOLDER": ".coin",
     "DAEMON_NAME": "coind",
     "CLI_NAME": "coin-cli"
 }

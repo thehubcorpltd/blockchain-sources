@@ -1,0 +1,17 @@
+{
+    "NAME": "PirateChain",
+    "TICKER": "ARRR",
+    "VERSION": "3.1.2",
+    "COMPILED_SOURCE_TAR": "https://github.com/PirateNetwork/pirate/releases/download/v3.1.2/pirate-cli-ubuntu1804-v3.1.2.zip",
+    "BOOTSTRAP_ZIP_URL": "",
+    "LOGO": "https://pirate.black/wp-content/uploads/2019/04/Pirate_Logo_Coin_Gold.png",
+    "RPC_PORT": "45453",
+    "P2P_PORT": "45452",
+    "HAS_MASTERNODES": false,
+    "MASTERNODE_COLLATERAL": -1,
+    "CONFIG_FILE_NAME": "PIRATE.conf",
+    "MASTERNODE_FILE_NAME": "",
+    "HIDDEN_FOLDER": ".komodo/PIRATE",
+    "DAEMON_NAME": "pirated",
+    "CLI_NAME": "pirate-cli"
+}

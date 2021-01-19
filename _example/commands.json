@@ -1,6 +1,7 @@
 {
     "general": {
         "GET_INFO": "getinfo",
+        "GET_BALANCE": "getbalance",
         "GET_STAKING_STATUS": "getstakingstatus",
         "LIST_ADDRESS_GROUPINGS": "listaddressgroupings",
         "STOP_DAEMON": "stop"
@@ -10,14 +11,18 @@
         "GET_NEW_ADDRESS": "getnewaddress",
         "LOCK_WALLET": "walletlock",
         "LIST_UNSPENT": "listunspent",
+        "LIST_TRANSACTIONS": "listtransactions",
+        "DUMP_PRIV_KEY": "dumpprivkey",
+        "GET_STAKE_SPLIT_THRESHOLD": "getstakesplitthreshold",
         "SET_STAKE_SPLIT_THRESHOLD": "setstakesplitthreshold",
-        "SEND": "sendtoaddress *|ADDRESS|* *|AMOUNT|*",
-        "UNLOCK_WALLET": "walletpassphrase *|PASSWORD|* 9999999999 true"
+        "SEND": "sendtoaddress",
+        "UNLOCK_WALLET": "walletpassphrase"
     },
     "masternodes": {
         "MASTERNODE_GENKEY": "masternode genkey",
+        "MASTERNODE_LIST": "masternode list",
         "MASTERNODE_STATUS": "masternode status",
-        "START_ALL_MASTERNODES": "startmasternode all false",
-        "START_MASTERNODE_ALIAS": "startmasternode alias false *|ALIAS|*"
+        "START_ALL_MASTERNODES": "masternode start all",
+        "START_MASTERNODE_ALIAS": "startmasternode alias false"
     }
 }

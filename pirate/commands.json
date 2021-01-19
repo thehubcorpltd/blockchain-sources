@@ -1,0 +1,23 @@
+{
+    "general": {
+        "GET_INFO": "getinfo",
+        "GET_STAKING_STATUS": "",
+        "LIST_ADDRESS_GROUPINGS": "z_listaddresses",
+        "STOP_DAEMON": "stop"
+    },
+    "wallet": {
+        "ENCRYPT_WALLET": "encryptwallet",
+        "GET_NEW_ADDRESS": "z_getnewaddress",
+        "LOCK_WALLET": "walletlock",
+        "LIST_UNSPENT": "z_listunspent",
+        "SET_STAKE_SPLIT_THRESHOLD": "",
+        "SEND": "z_sendmany",
+        "UNLOCK_WALLET": "walletpassphrase"
+    },
+    "masternodes": {
+        "MASTERNODE_GENKEY": "",
+        "MASTERNODE_STATUS": "",
+        "START_ALL_MASTERNODES": "",
+        "START_MASTERNODE_ALIAS": ""
+    }
+}
