@@ -8,6 +8,7 @@
     "RPC_PORT": "45453",
     "P2P_PORT": "45452",
     "HAS_MASTERNODES": false,
+    "CAN_LOCK": false,
     "MASTERNODE_COLLATERAL": -1,
     "CONFIG_FILE_NAME": "PIRATE.conf",
     "MASTERNODE_FILE_NAME": "",

@@ -9,11 +9,11 @@
     "wallet": {
         "ENCRYPT_WALLET": "encryptwallet",
         "GET_NEW_ADDRESS": "z_getnewaddress",
-        "LOCK_WALLET": "walletlock",
+        "LOCK_WALLET": "",
         "LIST_UNSPENT": "z_listunspent",
         "SET_STAKE_SPLIT_THRESHOLD": "",
         "SEND": "z_sendmany",
-        "UNLOCK_WALLET": "walletpassphrase"
+        "UNLOCK_WALLET": ""
     },
     "masternodes": {
         "MASTERNODE_GENKEY": "",
