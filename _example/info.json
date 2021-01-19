@@ -2,7 +2,7 @@
     "NAME": "YourBlockchainProjectName",
     "TICKER": "TCK",
     "VERSION": "1.0.0",
-    "COMPILED_SOURCE_TAR": "https://UrlToSourceTAR",
+    "COMPILED_SOURCE": "https://UrlToSourceTAR",
     "BOOTSTRAP_ZIP_URL": "https://UrlToBootstrapZIP",
     "LOGO": "https://UrlToYourLogo",
     "RPC_PORT": "11111",

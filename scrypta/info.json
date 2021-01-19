@@ -2,7 +2,7 @@
     "NAME": "Scrypta",
     "TICKER": "LYRA",
     "VERSION": "2.0.1",
-    "COMPILED_SOURCE_TAR": "https://scrypta.sfo2.digitaloceanspaces.com/lyra-2.0.1.tar.xz",
+    "COMPILED_SOURCE": "https://scrypta.sfo2.digitaloceanspaces.com/lyra-2.0.1.tar.xz",
     "BOOTSTRAP_ZIP_URL": "https://bs.scryptachain.org/latest.zip",
     "LOGO": "https://scryptachain.org/favicon.png",
     "RPC_PORT": "42223",
