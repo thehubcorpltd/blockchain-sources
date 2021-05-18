@@ -1,0 +1,14 @@
+{
+    "NAME": "Quadrans",
+    "TICKER": "QDC",
+    "VERSION": "1.4.0",
+    "COMPILED_SOURCE": "http://repo.quadrans.io/linux/amd64/gqdc",
+    "LOGO": "https://quadrans.io/assets/favicon/favicon_32.png",
+    "RPC_PORT": "",
+    "P2P_PORT": "",
+    "HAS_MASTERNODES": false,
+    "CAN_LOCK": false,
+    "MASTERNODE_COLLATERAL": 100000,
+    "HIDDEN_FOLDER": ".quadrans",
+    "DAEMON_NAME": "gqdc"
+}
